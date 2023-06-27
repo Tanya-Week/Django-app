@@ -10,4 +10,4 @@ def say_hello(request):
     #Pull data from a database
     #Transform the data
     #Send emails
-    return render(request,'hello.html',{'name':'Simran'})
+    return render(request,'hello.html',{'name':'Tanya'})
