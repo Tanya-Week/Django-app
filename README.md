@@ -13,7 +13,6 @@ This is a simple "Hello World" Django application that serves a single page with
 
    ```shell
    git clone https://github.com/your-username/django-hello-world.git
-Navigate to the project directory:
 
 2. Navigate to the project directory:
     ```shell
